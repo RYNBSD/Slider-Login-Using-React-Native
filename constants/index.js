@@ -1,0 +1,1 @@
+export const loginNewUser = 'login-new-user';
